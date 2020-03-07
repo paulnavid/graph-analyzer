@@ -1,0 +1,5 @@
+# Default settings for application
+##################################
+
+language=DE
+show_tutorial=true
