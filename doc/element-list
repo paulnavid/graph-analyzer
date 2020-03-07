@@ -1,0 +1,12 @@
+graphanalyzer
+graphanalyzer.controller
+graphanalyzer.controller.routines
+graphanalyzer.controller.settings
+graphanalyzer.model.algorithms
+graphanalyzer.model.graph
+graphanalyzer.util.io
+graphanalyzer.view
+graphanalyzer.view.components
+graphanalyzer.view.dialogs
+graphanalyzer.view.listener
+graphanalyzer.view.panels
